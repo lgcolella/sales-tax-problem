@@ -1,0 +1,22 @@
+{
+  "name": "sales-taxes-problem",
+  "version": "0.0.1",
+  "description": "sales-taxes-problem",
+  "main": "index.ts",
+  "author": "lgcolella",
+  "license": "Apache-2.0",
+  "private": true,
+  "dependencies": {
+    "@types/jest": "^26.0.0",
+    "@types/node": "^14.0.13",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.1.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.0.1"
+  },
+  "scripts": {
+    "start": "node node_modules/ts-node/dist/bin.js ./src/index.ts",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  }
+}
