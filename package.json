@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "node node_modules/ts-node/dist/bin.js ./src/index.ts",
-    "test": "jest",
-    "test:watch": "jest --watch"
+    "test": "node node_modules/jest/bin/jest.js",
+    "test:watch": "node node_modules/jest/bin/jest.js --watch"
   }
 }
