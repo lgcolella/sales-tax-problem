@@ -1,4 +1,4 @@
-# sales-tax-problem
+# Sales Tax Problem
 
 Implementation of the Sales Tax Problem.
 
