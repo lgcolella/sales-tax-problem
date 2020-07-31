@@ -1,7 +1,7 @@
 {
-  "name": "sales-taxes-problem",
+  "name": "sales-tax-problem",
   "version": "0.0.1",
-  "description": "sales-taxes-problem",
+  "description": "sales-tax-problem",
   "main": "index.ts",
   "author": "lgcolella",
   "license": "Apache-2.0",

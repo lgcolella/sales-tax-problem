@@ -1,6 +1,6 @@
-# sales-taxes-problem
+# sales-tax-problem
 
-Implementation of the Sales Taxes Problem.
+Implementation of the Sales Tax Problem.
 
 ## Summary
 - [Problem](#problem)
@@ -59,8 +59,8 @@ Total: 98.38
 
 ## Stack
 
-![Typescript](https://raw.githubusercontent.com/lgcolella/sales-taxes-problem/master/repository/typescript.png "Typescript")
-![Jest](https://raw.githubusercontent.com/lgcolella/sales-taxes-problem/master/repository/jest.png "Jest")
+![Typescript](https://raw.githubusercontent.com/lgcolella/sales-tax-problem/master/repository/typescript.png "Typescript")
+![Jest](https://raw.githubusercontent.com/lgcolella/sales-tax-problem/master/repository/jest.png "Jest")
 
 ## Testing
 
